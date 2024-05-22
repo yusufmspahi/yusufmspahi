@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yusuf
-- 👀 I’m interested in quantitative research
-- 🌱 I’m currently studying Phyiscs with Theoretical Physics at Imperial College London
+- Hi, I’m Yusuf
+- I’m interested in quantitative research
+- I’m currently studying Phyiscs with Theoretical Physics at Imperial College London
 
 
 <!---
