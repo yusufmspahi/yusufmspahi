@@ -1,13 +1,13 @@
-# Hi there, I'm Yusuf 
+# Hi there 👋, I'm Yusuf 
 
 
 ## ⚛️ About Me: 
 I am a Theoretical Physics undergraduate at **Imperial College London**. </br>
-Working as a Developer at **CCA**, a non-profit tech organisation of our institute.
+I am currently recruiting for 2025 spring-weeks and internships.
 
 I love problem-solving and learning new things. Recently, I've enjoyed contributing to open source as well.
 
-I am currently working on something cool. :shipit:  </br>
+I am currently working on something cool. 🔨  </br>
 
 ## How to reach me
 :pencil:  You can [email](yusufmspahi@gmail.com) me </br>
