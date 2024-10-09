@@ -1,5 +1,5 @@
 - Hi, I’m Yusuf
-- I’m interested in quantitative research
+- I’m interested in quantitative trading and research
 - I’m currently studying Phyiscs with Theoretical Physics at Imperial College London
 
 
