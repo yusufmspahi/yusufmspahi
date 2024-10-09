@@ -9,8 +9,8 @@ I love problem-solving and learning new things. Recently, I've enjoyed contribut
 
 I am currently working on something cool. 🔨  </br>
 
-## How to reach me
-:pencil:  You can [email](yusufmspahi@gmail.com) me </br>
+## How to reach me 💼
+✉️  You can [email](yusufmspahi@gmail.com) me </br>
 :handshake: And also connect with me on [Linkedin](https://www.linkedin.com/in/yusufmspahi)
 
 <!---
