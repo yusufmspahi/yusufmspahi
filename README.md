@@ -5,7 +5,7 @@
 I am a second-year Theoretical Physics student at **Imperial College London**. </br>
 I currently work as a physics and mathematics tutor for the University of Oxford.
 
-I love problem-solving and learning new things. Recently, I've enjoyed participating in datathons and contributing to open source.
+I love problem-solving and learning new things. Recently, I've enjoyed participating in datathons as well.
 
 I am currently working on something cool. 🔨  </br>
 
