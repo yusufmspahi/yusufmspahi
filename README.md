@@ -5,7 +5,7 @@
 I am a Theoretical Physics undergraduate at **Imperial College London**. </br>
 I am currently recruiting for 2025 spring-weeks and internships.
 
-I love problem-solving and learning new things. Recently, I've enjoyed contributing to open source as well.
+I love problem-solving and learning new things. Recently, I've enjoyed participating in datathons and contributing to open source.
 
 I am currently working on something cool. 🔨  </br>
 
