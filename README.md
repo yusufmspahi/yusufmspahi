@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yusuf 
+# Hi there, I'm Yusuf 
 
 
 ## ⚛️ About Me: 
